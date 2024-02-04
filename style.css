@@ -76,23 +76,29 @@ body {
 
 .section-photo {
     padding: 10px 10px 10px 10px;
+    /* border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15); */
 
 }
 
 .photo-style-1 {
     background-color: hwb(311 72% 3% / 0.904);
-
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
     box-shadow: 5px;
 }
 
 .photo-style-2 {
     height: 430px;
-
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
     box-shadow: 5px;
     background-color: rgba(172, 255, 255, 0.478);
 }
 
 .photo-style-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
     height: 438px;
     background-color: rgba(26, 245, 136, 0.41);
 }
@@ -124,11 +130,11 @@ body {
 
 }
 
-.input-related-style{
+.input-related-style {
     border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 10px;
-  border-color:#fff;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-color: #fff;
 }
 
 .text-h6 {
@@ -145,12 +151,12 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-   /* max-width: 1800px; */
+    /* max-width: 1800px; */
 }
 
-.btn-title{
-    background-color:rgba(226, 43, 110, 0.941);
-    border:0px;
-    font-size:18px;
-    color:white;
+.btn-title {
+    background-color: rgba(226, 43, 110, 0.941);
+    border: 0px;
+    font-size: 18px;
+    color: white;
 }

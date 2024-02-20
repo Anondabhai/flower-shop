@@ -140,7 +140,7 @@ body {
 .image-style {
     background-image: url(Rectangle\ 9.png);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: cover;
     background-size: contain;
     /* max-width: 1800px; */
 }
